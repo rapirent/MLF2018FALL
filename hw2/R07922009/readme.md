@@ -1,4 +1,4 @@
-# MLF2018FALL-HW1
+# MLF2018FALL-HW2
 
 - implement decision stump algorithm and its evaluation
 
