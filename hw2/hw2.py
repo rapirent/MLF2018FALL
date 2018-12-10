@@ -73,7 +73,7 @@ if __name__ == "__main__":
         e_out, e_in = decision_stump(x, y)
         e_ins.append(e_in)
         e_outs.append(e_out)
-        estimate.append(e_out - e_in)
+        estimate.append(e_in - e_out)
 
     print('avergage e_in =  {}'.format(sum(e_ins)/ITERATION_TIME))
     print('avergage e_out =  {}'.format(sum(e_outs)/ITERATION_TIME))
