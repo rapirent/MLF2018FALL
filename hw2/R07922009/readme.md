@@ -14,7 +14,7 @@ $ pip3 install -r requirements.txt
 
 ### run the code
 
-- and run the homework Perceptron learning algorithm
+- and run
 
 ```sh
 $ python3 hw2.py
